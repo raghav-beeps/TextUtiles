@@ -1,9 +1,5 @@
 # TextUtiles
 
-### demo 
-
-https://simranlotey.github.io/TextUtiles/
-
 ## Setup & Run
 
 Clone or download the repository.
